@@ -68,10 +68,6 @@ saveBtn.addEventListener('click', () => {
 
 aggiornaLista();
 
-// console.log(Array.isArray(utenti)); // Dovrebbe restituire "true"
-// console.log(utenti.length); // Dovrebbe restituire la lunghezza dell'array
-// console.log(localStorage.getItem("utenti"));
-
 // cancella tutto
 cancBtn.addEventListener('click', () => {
     //   Rimuove gli utenti
